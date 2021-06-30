@@ -1,12 +1,15 @@
 - 👋 Olá, meu nome é Julio Cezar tenho 32 anos
 - 👀 I’m buscando uma oportunidade de estágio na área desenvolvedor frontend...
-- 🌱 I’m currently learning .Net na DIO DIGITAL INNIVATION ONE...
+- 🌱 Estou no 3° semestre em Analise e desenvolvimento de sistema. Universidade Anhembi Morumbi
+- ☑ Estou Fazendo um BOODCAMPS de .Net na DIO DIGITAL INNIVATION ONE...
 - 💞️ I’m looking to collaborate on desenvolver app e web...
 - 📫 How to reach me contato 👇
 
 - ➡ 🔛 (11) 99701-3015
 
 - ➡ 🔛 juliolmatos@gmail.com.com
+
+- ➡ 🔛 https://www.linkedin.com/in/julio-cezar-ab7b50147
 
 <!---
 JULIO-Cezarr/JULIO-Cezarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
