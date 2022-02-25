@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Julio Cezar tenho 32 anos
-- 👀 I’m buscando uma oportunidade de estágio na área desenvolvedor frontend...
-- 🌱 Estou no 3° semestre em Analise e desenvolvimento de sistema. Universidade Anhembi Morumbi
+- 👀 I’m buscando uma oportunidade na área de desenvolvimento Front-end
+- 🌱 Estou cursando Análise e desenvolvimento de siste universidade Anhembi Morumbi 
 - ☑ Habilidades: Html , Css e JavaScript
 - 💞️ I’m looking to collaborate on desenvolver app e web...
 - 📫 How to reach me contato 👇
