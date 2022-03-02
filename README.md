@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Julio Cezar tenho 32 anos
-- 👀 I’m buscando uma oportunidade na área de desenvolvimento Front-end
+- 👀 Desenvolvedor Front-end Html Css JavaScript
 - 🌱 Estou cursando Análise e desenvolvimento de siste universidade Anhembi Morumbi 
 - ☑ Habilidades: Html , Css e JavaScript
 - 💞️ I’m looking to collaborate on desenvolver app e web...
