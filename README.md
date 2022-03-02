@@ -1,8 +1,8 @@
-- 👋 Olá, meu nome é Julio Cezar tenho 32 anos
-- 👀 Desenvolvedor Front-end Html Css JavaScript
-- 🌱 Estou cursando Análise e desenvolvimento de siste universidade Anhembi Morumbi 
-- ☑ Habilidades: Html , Css e JavaScript
-- 💞️ I’m looking to collaborate on desenvolver app e web...
+-    Julio Matos /  Idade 32 anos 
+-    Desenvolvedor Front-end Html Css JavaScript
+-    Estou cursando Análise e desenvolvimento de siste universidade Anhembi Morumbi 
+-    Habilidades: Html , Css e JavaScript
+-    I’m looking to collaborate on desenvolver app e web...
 - 📫 How to reach me contato 👇
 
 - ➡ 🔛 (11) 99701-3015
